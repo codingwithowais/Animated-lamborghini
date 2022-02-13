@@ -1,0 +1,23 @@
+#car{
+    width: 225px;
+    left: 20px;
+    top: 876px;
+    overflow: hidden;
+}
+#wheel-l{
+    width: 44px;
+    top: 899px;
+    left: 46px;
+    overflow: hidden;
+
+}
+#wheel-r{
+    width: 45px;
+    top: 898px;
+    left: 159px;
+    overflow: hidden;
+
+}
+#track{
+    animation: trackmove 1s linear  infinite ;
+}

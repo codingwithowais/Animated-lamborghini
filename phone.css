@@ -1,0 +1,39 @@
+
+    #car {
+        width: 225px;
+        left: 20px;
+        top: 560px;
+        overflow: hidden;
+}
+#wheel-l{
+    /* width: auto; */
+    width: 44px;
+    top: 583px;
+    left: 46px;
+    overflow: hidden;
+}
+#wheel-r{
+       /* width: auto; */
+       width: 45px;
+       top: 583px;
+       left: 159px;
+       overflow: hidden;
+
+}
+#background{
+    overflow: hidden;
+    width: 100vw;
+    background-position: left;
+    background-repeat: repeat-x;
+    
+}
+#trees{
+    overflow: hidden;
+    width: 100vw;
+    background-position: left;
+    background-repeat: repeat-x;
+  
+}
+#track{
+    animation: trackmove 1s linear  infinite ;
+}
